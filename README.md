@@ -20,19 +20,7 @@ The project uses **OAuth 2.0 (Desktop Application flow)** as required by the ass
 
 ## High-Level Architecture Diagram
 
-```
-Gmail Inbox (Unread Emails)
-        ↓
-Gmail API (OAuth 2.0)
-        ↓
-Email Parser
-        ↓
-State Validation (last_processed.txt)
-        ↓
-Google Sheets API
-        ↓
-Google Sheet (Rows Appended)
-```
+![WhatsApp Image 2026-01-14 at 23 22 07](https://github.com/user-attachments/assets/9dd848c0-4e22-423d-87b3-66e1552bf8da)
 
 ---
 
@@ -221,4 +209,5 @@ This project demonstrates:
 * Reliable state persistence
 * Duplicate-safe, repeatable automation
 * Clean, modular Python architecture
+
 

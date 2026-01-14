@@ -1,0 +1,14 @@
+# Google OAuth
+credentials/credentials.json
+state/token.json
+token.js
+
+# State files
+state/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env

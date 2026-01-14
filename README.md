@@ -24,6 +24,17 @@ The project uses **OAuth 2.0 (Desktop Application flow)** as required by the ass
 
 ---
 
+## Video Demonstration
+
+A short screen-recorded video demonstrating:
+- Project flow
+- Gmail → Google Sheets data movement
+- Duplicate prevention logic
+- Behavior when the script is run multiple times
+
+📎 Video Link: https://drive.google.com/file/d/15ElnhBzoC9xZYlccfGfz492qdxRRMy0d/view?usp=sharing
+
+
 ## Project Structure
 
 ```
@@ -209,5 +220,6 @@ This project demonstrates:
 * Reliable state persistence
 * Duplicate-safe, repeatable automation
 * Clean, modular Python architecture
+
 
 

@@ -6,7 +6,6 @@ from email_parser import parse_email
 from sheets_service import append_to_sheet,retry
 from config import LAST_PROCESSED_PATH
 from dotenv import load_dotenv
-print(load_dotenv())
 
 logging.basicConfig(
     level=logging.INFO,
